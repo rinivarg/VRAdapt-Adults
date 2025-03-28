@@ -2,7 +2,7 @@
 
 [![OSF](https://img.shields.io/badge/DOI-10.17605/osf.io/8wbkh-pink)](https://osf.io/8wbkh/)
 [![Funding](https://img.shields.io/badge/NIH-T32HD007414-blue)](https://reporter.nih.gov/search/T1K_4T6XmUeYfJEJ0kU8Kw/project-details/10848542)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rinivarg/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/rinivarg-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rinivarg/)
 
 This GitHub repository contains the analysis code to reproduce figures in the preprint titled: **[Adaptive learning in a naturalistic bimanual task in virtual reality](https://www.biorxiv.org).**
 

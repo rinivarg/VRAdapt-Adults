@@ -6,6 +6,7 @@
 
 This GitHub repository contains the analysis code to reproduce figures in the preprint titled: **[Adaptive learning in a naturalistic bimanual task in virtual reality](https://www.biorxiv.org).**
 
+<iframe src="https://drive.google.com/file/d/1aLnNRFMVRPIGRVjFtoWxJDdLoe51xDpK/preview" width="640" height="480" allow="autoplay"></iframe>
 
 1) **Data** (too large for GitHub!):  [Main data file](https://osf.io/8wbkh/)<br>
 2) **Analysis code on Jupyter Notebook:** [VRAdapt-Adults_FINAL.ipynb](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VRAdapt-Adults_FINAL.ipynb). 

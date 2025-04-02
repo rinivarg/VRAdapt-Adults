@@ -9,7 +9,7 @@ This GitHub repository contains the analysis code to reproduce figures in the pr
 ![GIF Description](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR_gif.gif)
 
 1) **Data** (too large for GitHub!):  [Main data file](https://osf.io/8wbkh/)<br>
-2) **Data Dictionary**: a data dictionary defining all column variables is available here as [PDF](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR-Adults-Data_dictionary.pdf) and here as [XLSX](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR-Adults-Data_dictionary.xlsx)
+2) **Data Dictionary**: labels/definitions for all column variables is available here as [PDF](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR-Adults-Data_dictionary.pdf) and here as [XLSX](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR-Adults-Data_dictionary.xlsx)
 2) **Analysis code on Jupyter Notebook:** [VRAdapt-Adults_FINAL.ipynb](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VRAdapt-Adults_FINAL.ipynb). 
     - To interactively use Jupyter Notebooks you can use Google Colab (with an R kernel). 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](https://colab.research.google.com/github/rinivarg/VRAdapt-Adults/blob/main/VRAdapt-Adults_FINAL.ipynb)

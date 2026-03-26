@@ -4,7 +4,7 @@
 [![Funding](https://img.shields.io/badge/NIH-T32HD007414-blue)](https://reporter.nih.gov/search/T1K_4T6XmUeYfJEJ0kU8Kw/project-details/10848542)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/rinivarg-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rinivarg/)
 
-This GitHub repository contains the analysis code to reproduce figures in the preprint titled: **[Adaptive learning in a naturalistic bimanual task in virtual reality](https://www.biorxiv.org).**
+This GitHub repository contains the analysis code to reproduce figures in the preprint titled: **[Task demands shift motor learning from adaptation to feedback control in a naturalistic bimanual task](https://www.biorxiv.org/content/10.1101/2025.05.01.651653v1.full).**
 
 ![GIF Description](https://github.com/rinivarg/VRAdapt-Adults/blob/main/VR_gif.gif)
 
